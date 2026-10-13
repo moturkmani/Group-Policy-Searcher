@@ -1,4 +1,4 @@
-# 🛡️ Windows 11 GPO Explorer
+# 🛡️ Windows 10/11 GPO Explorer
 
 > **Search, inspect and toggle Windows Group Policy settings from one clean, friendly window.**
 > No more digging through `gpedit.msc` menus. Type a keyword, click a policy, flip it ON or OFF. ⚡
@@ -172,7 +172,7 @@ Ideas, bug reports and pull requests are welcome! 💬
 
 ## 📄 License
 
-Released under the **MIT License**. See the [`LICENSE`](LICENSE) file for details.
+Released under the **MIT License**.
 
 ---
 
