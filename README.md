@@ -149,14 +149,15 @@ C:\Windows\PolicyDefinitions\en-US\*.adml  ➜  friendly names and descriptions
 ## 📁 Project Structure
 
 ```
-📦 your-repo
+📦 Group-Policy-Searcher
  ┣ 📜 gpsearcher.py     ← the app
  ┣ 📜 README.md         ← you are here
  ┗ 📂 assets
     ┣ 🖼️ image1.png     ← main window screenshot
     ┗ 🖼️ image2.png     ← policy details screenshot
- ┣ 📜 LICENSE ← MIT license
- ┣📜 registry.ico ← title bar icon
+ ┣ 📜 LICENSE           ← MIT license
+ ┣ 📜 registry.ico      ← title bar icon
+
 ```
 
 ## 🤝 Contributing
