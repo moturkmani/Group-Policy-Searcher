@@ -51,8 +51,8 @@
 **1️⃣ Download** this repository (green **Code** button, then **Download ZIP**) or clone it:
 
 ```powershell
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/moturkmani/Group-Policy-Searcher.git
+cd Group-Policy-Searcher
 ```
 
 **2️⃣ Open PowerShell as Administrator** 👑
@@ -155,9 +155,9 @@ C:\Windows\PolicyDefinitions\en-US\*.adml  ➜  friendly names and descriptions
  ┗ 📂 assets
     ┣ 🖼️ image1.png     ← main window screenshot
     ┗ 🖼️ image2.png     ← policy details screenshot
+ ┣ 📜 LICENSE ← MIT license
+ ┣📜 registry.ico ← title bar icon
 ```
-
----
 
 ## 🤝 Contributing
 
